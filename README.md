@@ -29,5 +29,5 @@ A full-stack application where users can exchange books with each other. Instead
 
 ### 1. Clone the repository
 ```bash
-[git clone https://github.com/your-username/book-barter.git](https://github.com/Izxchs/Book-Barter-System.git)
+https://github.com/Izxchs/Book-Barter-System.git
 cd book-barter
